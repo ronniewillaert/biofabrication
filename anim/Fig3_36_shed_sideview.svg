@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" font-family="Helvetica, Arial, Liberation Sans, sans-serif">
+<style>
+  .subtitle { font-size: 24.0px; font-weight: bold; }
+  .small { font-size: 18.7px; }
+  .tiny { font-size: 16.5px; }
+  @keyframes sh0a { 0.00% { transform: rotate(0deg) } 0.00% { transform: rotate(0deg) } 5.24% { transform: rotate(-24.23deg) } 25.24% { transform: rotate(-24.23deg) } 29.52% { transform: rotate(0deg) } 33.33% { transform: rotate(0deg) } 38.57% { transform: rotate(24.23deg) } 58.57% { transform: rotate(24.23deg) } 62.86% { transform: rotate(0deg) } 66.67% { transform: rotate(0deg) } 71.90% { transform: rotate(-24.23deg) } 91.90% { transform: rotate(-24.23deg) } 96.19% { transform: rotate(0deg) } 100.00% { transform: rotate(0deg) } }
+  .sh0a { animation: sh0a 21.0s infinite; }
+  @keyframes sh0b { 0.00% { transform: rotate(0deg) } 0.00% { transform: rotate(0deg) } 5.24% { transform: rotate(13.50deg) } 25.24% { transform: rotate(13.50deg) } 29.52% { transform: rotate(0deg) } 33.33% { transform: rotate(0deg) } 38.57% { transform: rotate(-13.50deg) } 58.57% { transform: rotate(-13.50deg) } 62.86% { transform: rotate(0deg) } 66.67% { transform: rotate(0deg) } 71.90% { transform: rotate(13.50deg) } 91.90% { transform: rotate(13.50deg) } 96.19% { transform: rotate(0deg) } 100.00% { transform: rotate(0deg) } }
+  .sh0b { animation: sh0b 21.0s infinite; }
+  @keyframes hf0 { 0.00% { transform: translateY(0) } 0.00% { transform: translateY(0) } 5.24% { transform: translateY(-72px) } 25.24% { transform: translateY(-72px) } 29.52% { transform: translateY(0) } 33.33% { transform: translateY(0) } 38.57% { transform: translateY(72px) } 58.57% { transform: translateY(72px) } 62.86% { transform: translateY(0) } 66.67% { transform: translateY(0) } 71.90% { transform: translateY(-72px) } 91.90% { transform: translateY(-72px) } 96.19% { transform: translateY(0) } 100.00% { transform: translateY(0) } }
+  .hf0 { animation: hf0 21.0s infinite; }
+  .sh0a { transform-origin: 240px 300px; }
+  .sh0b { transform-origin: 700px 300px; }
+  @keyframes sh1a { 0.00% { transform: rotate(0deg) } 0.00% { transform: rotate(0deg) } 5.24% { transform: rotate(17.38deg) } 25.24% { transform: rotate(17.38deg) } 29.52% { transform: rotate(0deg) } 33.33% { transform: rotate(0deg) } 38.57% { transform: rotate(-17.38deg) } 58.57% { transform: rotate(-17.38deg) } 62.86% { transform: rotate(0deg) } 66.67% { transform: rotate(0deg) } 71.90% { transform: rotate(17.38deg) } 91.90% { transform: rotate(17.38deg) } 96.19% { transform: rotate(0deg) } 100.00% { transform: rotate(0deg) } }
+  .sh1a { animation: sh1a 21.0s infinite; }
+  @keyframes sh1b { 0.00% { transform: rotate(0deg) } 0.00% { transform: rotate(0deg) } 5.24% { transform: rotate(-17.38deg) } 25.24% { transform: rotate(-17.38deg) } 29.52% { transform: rotate(0deg) } 33.33% { transform: rotate(0deg) } 38.57% { transform: rotate(17.38deg) } 58.57% { transform: rotate(17.38deg) } 62.86% { transform: rotate(0deg) } 66.67% { transform: rotate(0deg) } 71.90% { transform: rotate(-17.38deg) } 91.90% { transform: rotate(-17.38deg) } 96.19% { transform: rotate(0deg) } 100.00% { transform: rotate(0deg) } }
+  .sh1b { animation: sh1b 21.0s infinite; }
+  @keyframes hf1 { 0.00% { transform: translateY(0) } 0.00% { transform: translateY(0) } 5.24% { transform: translateY(72px) } 25.24% { transform: translateY(72px) } 29.52% { transform: translateY(0) } 33.33% { transform: translateY(0) } 38.57% { transform: translateY(-72px) } 58.57% { transform: translateY(-72px) } 62.86% { transform: translateY(0) } 66.67% { transform: translateY(0) } 71.90% { transform: translateY(72px) } 91.90% { transform: translateY(72px) } 96.19% { transform: translateY(0) } 100.00% { transform: translateY(0) } }
+  .hf1 { animation: hf1 21.0s infinite; }
+  .sh1a { transform-origin: 240px 300px; }
+  .sh1b { transform-origin: 700px 300px; }
+  @keyframes shut { 0.00% { opacity: 0 } 7.14% { opacity: 0 } 8.57% { opacity: 1 } 16.19% { opacity: 1 } 17.62% { opacity: 0 } 40.48% { opacity: 0 } 41.90% { opacity: 1 } 49.52% { opacity: 1 } 50.95% { opacity: 0 } 73.81% { opacity: 0 } 75.24% { opacity: 1 } 82.86% { opacity: 1 } 84.29% { opacity: 0 } 100.00% { opacity: 0 } }
+  .shut { animation: shut 21.0s infinite; }
+  @keyframes reed { 0.00% { transform: translateX(0) } 18.10% { transform: translateX(0) } 20.48% { transform: translateX(146px) } 23.81% { transform: translateX(0) } 51.43% { transform: translateX(0) } 53.81% { transform: translateX(146px) } 57.14% { transform: translateX(0) } 84.76% { transform: translateX(0) } 87.14% { transform: translateX(146px) } 90.48% { transform: translateX(0) } 100.00% { transform: translateX(0) } }
+  .reed { animation: reed 21.0s infinite; }
+  @keyframes pick0 { 0.00% { opacity: 0 } 8.57% { opacity: 0 } 9.76% { opacity: 1 } 100.00% { opacity: 1 } }
+  .pick0 { animation: pick0 21.0s infinite; }
+  @keyframes pick1 { 0.00% { opacity: 0 } 41.90% { opacity: 0 } 43.10% { opacity: 1 } 100.00% { opacity: 1 } }
+  .pick1 { animation: pick1 21.0s infinite; }
+  @keyframes pick2 { 0.00% { opacity: 0 } 75.24% { opacity: 0 } 76.43% { opacity: 1 } 100.00% { opacity: 1 } }
+  .pick2 { animation: pick2 21.0s infinite; }
+  @keyframes cam { 0.00% { transform: scale(1) } 63.81% { transform: scale(1) } 74.29% { transform: scale(2.3) } 91.43% { transform: scale(2.3) } 99.52% { transform: scale(1) } 100.00% { transform: scale(1) } }
+  .cam { animation: cam 21.0s infinite; transform-origin: 400px 286px; transform-box: view-box; }
+  @keyframes labs { 0.00% { opacity: 1 } 63.81% { opacity: 1 } 68.57% { opacity: 0 } 93.33% { opacity: 0 } 99.52% { opacity: 1 } 100.00% { opacity: 1 } }
+  .labs { animation: labs 21.0s infinite; }
+  @keyframes zcap { 0.00% { opacity: 0 } 71.43% { opacity: 0 } 75.71% { opacity: 1 } 91.43% { opacity: 1 } 94.29% { opacity: 0 } 100.00% { opacity: 0 } }
+  .zcap { animation: zcap 21.0s infinite; }
+  @keyframes takeup { 0.00% { transform: translateX(0) } 20.71% { transform: translateX(24px) } 54.05% { transform: translateX(48px) } 87.38% { transform: translateX(72px) } }
+  .cloth { animation: takeup 21.0s infinite steps(1, end); }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+</style>
+<rect width="1000" height="560" fill="white"/>
+<rect x="20" y="16" width="960" height="36" rx="8" fill="#2E5C8A"/>
+<text class="subtitle" x="500.0" y="40" text-anchor="middle" fill="white">Shed formation: side view of the loom (plain weave)</text>
+<rect x="20" y="64" width="960" height="476" rx="10" fill="white" stroke="#BFC5CE" stroke-width="1.2"/>
+<clipPath id="panel"><rect x="21" y="65" width="958" height="474" rx="10"/></clipPath>
+<g clip-path="url(#panel)"><g class="cam">
+<g class="cloth"><g><path d="M712.0,300 Q724,307 736.0,300" fill="none" stroke="#2E5C8A" stroke-width="3.4" stroke-linecap="round"/><path d="M712.0,300 Q724,293 736.0,300" fill="none" stroke="#B9CCE2" stroke-width="3.4" stroke-linecap="round"/><circle cx="724" cy="300" r="6.5" fill="#E08A2E" stroke="white" stroke-width="0.8"/></g><g><path d="M736.0,300 Q748,293 760.0,300" fill="none" stroke="#2E5C8A" stroke-width="3.4" stroke-linecap="round"/><path d="M736.0,300 Q748,307 760.0,300" fill="none" stroke="#B9CCE2" stroke-width="3.4" stroke-linecap="round"/><circle cx="748" cy="300" r="6.5" fill="#E08A2E" stroke="white" stroke-width="0.8"/></g><g><path d="M760.0,300 Q772,307 784.0,300" fill="none" stroke="#2E5C8A" stroke-width="3.4" stroke-linecap="round"/><path d="M760.0,300 Q772,293 784.0,300" fill="none" stroke="#B9CCE2" stroke-width="3.4" stroke-linecap="round"/><circle cx="772" cy="300" r="6.5" fill="#E08A2E" stroke="white" stroke-width="0.8"/></g><g><path d="M784.0,300 Q796,293 808.0,300" fill="none" stroke="#2E5C8A" stroke-width="3.4" stroke-linecap="round"/><path d="M784.0,300 Q796,307 808.0,300" fill="none" stroke="#B9CCE2" stroke-width="3.4" stroke-linecap="round"/><circle cx="796" cy="300" r="6.5" fill="#E08A2E" stroke="white" stroke-width="0.8"/></g><g><path d="M808.0,300 Q820,307 832.0,300" fill="none" stroke="#2E5C8A" stroke-width="3.4" stroke-linecap="round"/><path d="M808.0,300 Q820,293 832.0,300" fill="none" stroke="#B9CCE2" stroke-width="3.4" stroke-linecap="round"/><circle cx="820" cy="300" r="6.5" fill="#E08A2E" stroke="white" stroke-width="0.8"/></g><g><path d="M832.0,300 Q844,293 856.0,300" fill="none" stroke="#2E5C8A" stroke-width="3.4" stroke-linecap="round"/><path d="M832.0,300 Q844,307 856.0,300" fill="none" stroke="#B9CCE2" stroke-width="3.4" stroke-linecap="round"/><circle cx="844" cy="300" r="6.5" fill="#E08A2E" stroke="white" stroke-width="0.8"/></g><g><path d="M856.0,300 Q868,307 880.0,300" fill="none" stroke="#2E5C8A" stroke-width="3.4" stroke-linecap="round"/><path d="M856.0,300 Q868,293 880.0,300" fill="none" stroke="#B9CCE2" stroke-width="3.4" stroke-linecap="round"/><circle cx="868" cy="300" r="6.5" fill="#E08A2E" stroke="white" stroke-width="0.8"/></g><g><path d="M880.0,300 Q892,293 904.0,300" fill="none" stroke="#2E5C8A" stroke-width="3.4" stroke-linecap="round"/><path d="M880.0,300 Q892,307 904.0,300" fill="none" stroke="#B9CCE2" stroke-width="3.4" stroke-linecap="round"/><circle cx="892" cy="300" r="6.5" fill="#E08A2E" stroke="white" stroke-width="0.8"/></g><g class="pick0"><path d="M688.0,300 Q700,293 712.0,300" fill="none" stroke="#2E5C8A" stroke-width="3.4" stroke-linecap="round"/><path d="M688.0,300 Q700,307 712.0,300" fill="none" stroke="#B9CCE2" stroke-width="3.4" stroke-linecap="round"/><circle cx="700" cy="300" r="6.5" fill="#E08A2E" stroke="white" stroke-width="0.8"/></g><g class="pick1"><path d="M664.0,300 Q676,307 688.0,300" fill="none" stroke="#2E5C8A" stroke-width="3.4" stroke-linecap="round"/><path d="M664.0,300 Q676,293 688.0,300" fill="none" stroke="#B9CCE2" stroke-width="3.4" stroke-linecap="round"/><circle cx="676" cy="300" r="6.5" fill="#E08A2E" stroke="white" stroke-width="0.8"/></g><g class="pick2"><path d="M640.0,300 Q652,293 664.0,300" fill="none" stroke="#2E5C8A" stroke-width="3.4" stroke-linecap="round"/><path d="M640.0,300 Q652,307 664.0,300" fill="none" stroke="#B9CCE2" stroke-width="3.4" stroke-linecap="round"/><circle cx="652" cy="300" r="6.5" fill="#E08A2E" stroke="white" stroke-width="0.8"/></g></g>
+<circle cx="92" cy="300" r="44" fill="#2F3A48"/><circle cx="92" cy="300" r="12" fill="#6B7280"/>
+<circle cx="920" cy="300" r="44" fill="#2F3A48"/><circle cx="920" cy="300" r="12" fill="#6B7280"/>
+<line x1="136" y1="295" x2="240" y2="295" stroke="#2E5C8A" stroke-width="3.4" stroke-linecap="round"/>
+<line x1="136" y1="305" x2="240" y2="305" stroke="#B9CCE2" stroke-width="3.4" stroke-linecap="round"/>
+<circle cx="240" cy="300" r="11" fill="#6B7280"/>
+<g class="sh0a"><line x1="240" y1="300" x2="400" y2="300" stroke="#2E5C8A" stroke-width="3.4" stroke-linecap="round"/></g>
+<g class="sh0b"><line x1="400" y1="300" x2="700" y2="300" stroke="#2E5C8A" stroke-width="3.4" stroke-linecap="round"/></g>
+<g class="sh1a"><line x1="240" y1="300" x2="470" y2="300" stroke="#B9CCE2" stroke-width="3.4" stroke-linecap="round"/></g>
+<g class="sh1b"><line x1="470" y1="300" x2="700" y2="300" stroke="#B9CCE2" stroke-width="3.4" stroke-linecap="round"/></g>
+<g class="hf0"><rect x="387" y="196" width="26" height="78" rx="4" fill="#DCE1E8" stroke="#6B7280" stroke-width="1.2"/><rect x="387" y="326" width="26" height="78" rx="4" fill="#DCE1E8" stroke="#6B7280" stroke-width="1.2"/><line x1="400" y1="274" x2="400" y2="287" stroke="#6B7280" stroke-width="2"/><line x1="400" y1="313" x2="400" y2="326" stroke="#6B7280" stroke-width="2"/><ellipse cx="400" cy="300" rx="7" ry="13" fill="none" stroke="#6B7280" stroke-width="2"/></g>
+<g class="hf1"><rect x="457" y="196" width="26" height="78" rx="4" fill="#DCE1E8" stroke="#6B7280" stroke-width="1.2"/><rect x="457" y="326" width="26" height="78" rx="4" fill="#DCE1E8" stroke="#6B7280" stroke-width="1.2"/><line x1="470" y1="274" x2="470" y2="287" stroke="#6B7280" stroke-width="2"/><line x1="470" y1="313" x2="470" y2="326" stroke="#6B7280" stroke-width="2"/><ellipse cx="470" cy="300" rx="7" ry="13" fill="none" stroke="#6B7280" stroke-width="2"/></g>
+<g class="reed"><rect x="520" y="196" width="34" height="208" rx="4" fill="#EDF1F5" stroke="#6B7280" stroke-width="1.2"/><line x1="524" y1="204" x2="550" y2="204" stroke="#6B7280" stroke-width="1.6"/><line x1="524" y1="223" x2="550" y2="223" stroke="#6B7280" stroke-width="1.6"/><line x1="524" y1="242" x2="550" y2="242" stroke="#6B7280" stroke-width="1.6"/><line x1="524" y1="261" x2="550" y2="261" stroke="#6B7280" stroke-width="1.6"/><line x1="524" y1="280" x2="550" y2="280" stroke="#6B7280" stroke-width="1.6"/><line x1="524" y1="299" x2="550" y2="299" stroke="#6B7280" stroke-width="1.6"/><line x1="524" y1="318" x2="550" y2="318" stroke="#6B7280" stroke-width="1.6"/><line x1="524" y1="337" x2="550" y2="337" stroke="#6B7280" stroke-width="1.6"/><line x1="524" y1="356" x2="550" y2="356" stroke="#6B7280" stroke-width="1.6"/><line x1="524" y1="375" x2="550" y2="375" stroke="#6B7280" stroke-width="1.6"/><line x1="524" y1="394" x2="550" y2="394" stroke="#6B7280" stroke-width="1.6"/></g>
+<g class="shut"><ellipse cx="600" cy="316" rx="30" ry="15" fill="#F6D2AA" stroke="#E08A2E" stroke-width="2"/><circle cx="600" cy="316" r="7.5" fill="white" stroke="#E08A2E" stroke-width="2"/><line x1="595" y1="311" x2="605" y2="321" stroke="#E08A2E" stroke-width="2"/><line x1="595" y1="321" x2="605" y2="311" stroke="#E08A2E" stroke-width="2"/></g>
+<g class="labs">
+<text class="small" x="92" y="376" text-anchor="middle" fill="#6B7280">warp beam</text>
+<text class="small" x="386" y="126" text-anchor="middle" fill="#6B7280">harnesses (heddles)</text>
+<text class="small" x="537" y="158" text-anchor="middle" fill="#6B7280">reed</text>
+<text class="small" x="286" y="440" text-anchor="middle" fill="#E08A2E">shuttle, seen end-on:</text>
+<text class="small" x="286" y="462" text-anchor="middle" fill="#E08A2E">it travels into the page</text>
+<text class="small" x="846" y="422" text-anchor="middle" fill="#3A9A8F">fabric: picks in cross-section</text>
+<text class="small" x="920" y="376" text-anchor="middle" fill="#6B7280">cloth beam</text>
+<text class="small" x="628" y="252" text-anchor="middle" fill="#2F3A48">shed</text>
+<text class="tiny" x="700" y="392" text-anchor="middle" fill="#6B7280">fell</text>
+<line x1="700" y1="374" x2="700" y2="314" stroke="#6B7280" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="330" y1="424" x2="568" y2="328" stroke="#E08A2E" stroke-width="1" stroke-dasharray="3 3"/>
+</g></g></g>
+<text class="small zcap" x="500.0" y="534" text-anchor="middle" fill="#2F3A48">the heddle eye carries its warp thread up and down; the threads beside it stay where they are</text>
+<text class="small labs" x="500.0" y="534" text-anchor="middle" fill="#6B7280" font-style="italic">the harnesses swap on every pick, so each warp thread passes alternately over and under the weft</text>
+</svg>

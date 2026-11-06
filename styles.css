@@ -1,0 +1,24 @@
+.callout-tip .callout-title-container { font-weight: 600; }
+figcaption { font-size: 0.9em; }
+.btn-primary { margin: 0.3em 0 1em 0; }
+
+/* table text same size as captions */
+main table { font-size: 0.9em; line-height: 1.35; }
+main table td, main table th { padding: 0.3rem 0.45rem; }
+
+/* "In this chapter" list at the start of each chapter */
+.chapter-contents { border: 1px solid #9aa5b1; border-radius: 4px; background: #f3f5f8; padding: 0.6em 1em 0.3em 1em; margin: 0.5em 0 1.2em 0; }
+.chapter-contents ul { list-style: none; padding-left: 0; margin-bottom: 0.3em; }
+.chapter-contents li { margin: 0.15em 0; }
+.chapter-contents a { text-decoration: none; }
+
+/* headings in dark blue, as in the print book */
+main h1, main h2, main h3, main h4, main h5 { color: #1F4E79; }
+
+/* numbered equations: formula indented, number flush right, as in the print book */
+.eqnum { float: right; }
+
+/* animations: web-only figures beside the printed ones */
+.anim { margin: 1.2em 0 1.6em 0; }
+.anim img { width: 100%; }
+.anim p { font-size: 0.9em; line-height: 1.35; color: #333; margin-top: 0.4em; }
